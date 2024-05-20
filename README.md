@@ -3,6 +3,9 @@
 ## Overview
 Welcome to the Pokémon and Recipe Generator! This web application randomly displays a Pokémon and a corresponding recipe. Whether you're a Pokémon trainer or a chef, this tool is designed to inspire you.
 
+## Demo
+![Generator Demo](demo.gif)
+
 ## Features
 
 - **Random Pokémon**: Displays a random Pokémon using the [PokéAPI](https://pokeapi.co/), showing its image and name.
