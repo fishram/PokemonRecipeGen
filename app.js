@@ -7,7 +7,7 @@ function generatePokemonAndRecipe() {
 }
 
 function fetchPokemon() {
-    const pokemonId = Math.floor(Math.random() * 151) + 1;
+    const pokemonId = Math.floor(Math.random() * 80) + 1;
     const url = `https://pokeapi.co/api/v2/pokemon/${pokemonId}`;
 
     return fetch(url)  // Added return here
